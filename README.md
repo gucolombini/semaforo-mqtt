@@ -1,5 +1,5 @@
 # Semáforos LED com sensor fotoresistor usando ESP32
-<img src="assets/semaforo2.gif" width="250" height="250" /> <img src="assets/image1.jpg" width="250" height="250" /> <img src="assets/image2.jpg" width="250" height="250" />
+<img src="assets/semaforo_mqtt.gif" width="350" height="250" /> <img src="assets/image1.jpg" width="300" height="250" /> <img src="assets/image2.jpg" width="300" height="250" />
 ### Peças usadas:
 - ESP32-DEVKITC-32U
 - 6x LED 5mm (2x vermelho, 2x amarelo, 2x verde)
@@ -9,7 +9,7 @@
 - Tábua MDF cortada à laser
 
 
-https://github.com/user-attachments/assets/ab82b6d1-8091-494c-a985-aa77760d4a27
+https://github.com/user-attachments/assets/b5d78ab5-0ad5-490b-b932-37b0197cb9c7
 
 ---
 
