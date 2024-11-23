@@ -8,6 +8,9 @@
 - Cabos jumper M-M e M-F
 - Tábua MDF cortada à laser
 
+
+https://github.com/user-attachments/assets/ab82b6d1-8091-494c-a985-aa77760d4a27
+
 ---
 
 Esse projeto consiste em um sistema de dois semáforos que funcionam simultaneamente, mas também com a ajuda do sensor LDR, conseguem detectar mudanças na luminosidade. Além disso, o sistema conecta-se à internet para enviar e receber requisições por MQTT, permitindo comunicação sem fio com o dispositivo.
